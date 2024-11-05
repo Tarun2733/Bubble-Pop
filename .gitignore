@@ -1,0 +1,28 @@
+# Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+BuildReport/
+Logs/
+UserSettings/
+
+# Visual Studio files
+*.sln
+*.csproj
+*.userprefs
+*.pidb
+*.suo
+*.user
+*.sln.docstates
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Mac files
+.DS_Store
+
+# Other files to ignore
+*.apk
+*.unitypackage
